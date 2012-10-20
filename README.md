@@ -1,0 +1,3 @@
+# RestorationSample
+UIStateRestorationのサンプルコード
+Xcode 4.5のスケルトンにUIStateRestorationの追加実装を行ったもの
